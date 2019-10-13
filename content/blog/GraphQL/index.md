@@ -1,7 +1,7 @@
 ---
-title: New Beginnings
+title: Apollo, GraphQl and the learning curve of working in software
 date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+description: Using a framework of tools to work with front end and back end technologies
 ---
 
 Far far away, behind the word mountains, far from the countries Vokalia and

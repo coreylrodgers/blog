@@ -1,5 +1,6 @@
 ---
-title: My Second Post!
+title: Back into Game development!
+description: The reasons why I want to make computer games from scratch
 date: "2015-05-06T23:46:37.121Z"
 ---
 
